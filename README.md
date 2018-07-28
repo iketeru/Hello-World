@@ -13,4 +13,4 @@
 1. bbb
 1. ccc
 
-(google)[http://google.com]
+[google](http://google.com)
